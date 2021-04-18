@@ -21,7 +21,7 @@ func main() {
 		if i == 5 {
 			break
 		}
-		Printf("Numero de intentos:", i)
+		fmt.Printf("Numero de intentos:", i)
 		i++
 	}
 	//3 .- Forma tradicional
